@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.events-bg-container {
+  background-color: #64748b;
+  min-height: 100vh;
+  display: flex;
+}
+.events-container {
+  min-width: 50%;
+}
+.events-heading {
+  font-size: 35px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.events-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+.active-event-container {
+  background-color: #ffffff;
+}
